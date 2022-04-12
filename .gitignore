@@ -1,0 +1,6 @@
+# Ignore all text files
+*.txt
+
+# Ignore files beginning with a dot
+.*
+!.gitignore
