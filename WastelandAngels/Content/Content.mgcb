@@ -1,0 +1,259 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:Windows
+/config:
+/profile:HiDef
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+/reference:..\..\WastelandAngels.ContentPipeline\bin\Debug\WastelandAngels.ContentPipeline.dll
+
+#---------------------------------- Content ---------------------------------#
+
+#begin Animations/EnemyIdleBack.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyIdleBack.anim
+
+#begin Animations/EnemyIdleBackLeft.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyIdleBackLeft.anim
+
+#begin Animations/EnemyIdleBackRight.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyIdleBackRight.anim
+
+#begin Animations/EnemyIdleFront.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyIdleFront.anim
+
+#begin Animations/EnemyIdleFrontLeft.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyIdleFrontLeft.anim
+
+#begin Animations/EnemyIdleFrontRight.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyIdleFrontRight.anim
+
+#begin Animations/EnemyIdleLeft.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyIdleLeft.anim
+
+#begin Animations/EnemyIdleRight.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyIdleRight.anim
+
+#begin Animations/EnemyRunningBack.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyRunningBack.anim
+
+#begin Animations/EnemyRunningBackLeft.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyRunningBackLeft.anim
+
+#begin Animations/EnemyRunningBackRight.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyRunningBackRight.anim
+
+#begin Animations/EnemyRunningFront.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyRunningFront.anim
+
+#begin Animations/EnemyRunningFrontLeft.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyRunningFrontLeft.anim
+
+#begin Animations/EnemyRunningFrontRight.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyRunningFrontRight.anim
+
+#begin Animations/EnemyRunningLeft.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyRunningLeft.anim
+
+#begin Animations/EnemyRunningRight.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/EnemyRunningRight.anim
+
+#begin Animations/PlayerIdleBack.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerIdleBack.anim
+
+#begin Animations/PlayerIdleBackLeft.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerIdleBackLeft.anim
+
+#begin Animations/PlayerIdleBackRight.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerIdleBackRight.anim
+
+#begin Animations/PlayerIdleFront.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerIdleFront.anim
+
+#begin Animations/PlayerIdleFrontLeft.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerIdleFrontLeft.anim
+
+#begin Animations/PlayerIdleFrontRight.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerIdleFrontRight.anim
+
+#begin Animations/PlayerIdleLeft.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerIdleLeft.anim
+
+#begin Animations/PlayerIdleRight.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerIdleRight.anim
+
+#begin Animations/PlayerRunningBack.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerRunningBack.anim
+
+#begin Animations/PlayerRunningBackLeft.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerRunningBackLeft.anim
+
+#begin Animations/PlayerRunningBackRight.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerRunningBackRight.anim
+
+#begin Animations/PlayerRunningFront.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerRunningFront.anim
+
+#begin Animations/PlayerRunningFrontLeft.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerRunningFrontLeft.anim
+
+#begin Animations/PlayerRunningFrontRight.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerRunningFrontRight.anim
+
+#begin Animations/PlayerRunningLeft.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerRunningLeft.anim
+
+#begin Animations/PlayerRunningRight.anim
+/importer:AnimationImporter
+/processor:PassThroughProcessor
+/build:Animations/PlayerRunningRight.anim
+
+#begin Entities/EnemyMetaData/SpriteManagerMetadata.smr
+/importer:SpriteManagerImporter
+/processor:PassThroughProcessor
+/build:Entities/EnemyMetaData/SpriteManagerMetadata.smr
+
+#begin Entities/PlayerMetadata/SpriteManagerMetadata - Copy.smr
+/importer:SpriteManagerImporter
+/processor:PassThroughProcessor
+/build:Entities/PlayerMetadata/SpriteManagerMetadata - Copy.smr
+
+#begin Entities/PlayerMetadata/SpriteManagerMetadata.smr
+/importer:SpriteManagerImporter
+/processor:PassThroughProcessor
+/build:Entities/PlayerMetadata/SpriteManagerMetadata.smr
+
+#begin Levels/Level16x16.tmx
+/importer:TileMapImporter
+/processor:PassThroughProcessor
+/build:Levels/Level16x16.tmx
+
+#begin Pictures/Tileset_16x16.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Pictures/Tileset_16x16.png
+
+#begin Spritesheets/EnemySheet/EnemySheet.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Spritesheets/EnemySheet/EnemySheet.png
+
+#begin Spritesheets/EnemySheet/EnemySheetMetadata.sst
+/importer:SpritesheetImporter
+/processor:PassThroughProcessor
+/build:Spritesheets/EnemySheet/EnemySheetMetadata.sst
+
+#begin Spritesheets/PlayerSheet/PlayerSheet.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Spritesheets/PlayerSheet/PlayerSheet.png
+
+#begin Spritesheets/PlayerSheet/-PlayerSheet.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Spritesheets/PlayerSheet/-PlayerSheet.png
+
+#begin Spritesheets/PlayerSheet/PlayerSheetMetadata.sst
+/importer:SpritesheetImporter
+/processor:PassThroughProcessor
+/build:Spritesheets/PlayerSheet/PlayerSheetMetadata.sst
+
+#begin Tilesets/Tileset_16x16.tsx
+/importer:TileMapTilesetImporter
+/processor:PassThroughProcessor
+/build:Tilesets/Tileset_16x16.tsx
+

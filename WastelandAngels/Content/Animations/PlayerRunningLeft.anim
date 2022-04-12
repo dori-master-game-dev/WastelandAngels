@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="PlayerRunningLeft" framecount="6" startingindex="22">
+ 0.15,0.15,0.15,0.15,0.15,0.15
+</animation>

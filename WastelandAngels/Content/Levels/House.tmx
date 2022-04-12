@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" infinite="0" nextlayerid="18" nextobjectid="34">
+ <properties>
+  <property name="layers" type="int" value="3"/>
+ </properties>
+ <tileset firstgid="1" source="../Tilesets/Tileset.tsx"/>
+ <tileset firstgid="1065" source="../Tilesets/Walls1.tsx"/>
+ <tileset firstgid="1305" source="../Tilesets/Walls2.tsx"/>
+ <tileset firstgid="2265" source="../Tilesets/Shadows.tsx"/>
+ <group id="2" name="Layers">
+  <group id="3" name="Layer0">
+   <layer id="1" name="Floor" width="10" height="10">
+    <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,305,305,305,305,305,305,305,305,0,
+0,305,305,305,305,305,305,305,305,0,
+0,305,305,305,305,305,305,305,305,0,
+0,305,305,305,305,305,305,305,305,0,
+0,305,305,305,305,305,305,305,305,0,
+0,305,305,305,305,305,305,305,305,0,
+0,0,0,0,0,305,0,0,0,0
+</data>
+   </layer>
+   <layer id="5" name="Walls" width="10" height="10">
+    <data encoding="csv">
+1733,1798,1798,1798,1798,1798,1798,1798,1799,1736,
+1765,469,466,466,466,466,466,466,466,1768,
+1765,477,474,474,474,474,474,474,474,1768,
+1765,0,0,0,0,0,0,0,0,1768,
+1765,0,0,0,0,0,0,0,0,1768,
+1765,0,0,0,0,0,0,0,0,1768,
+1765,0,0,0,0,0,0,0,0,1768,
+1765,0,0,0,0,0,0,0,0,1736,
+1765,0,0,0,0,0,0,0,0,1768,
+1797,1798,1799,1798,1799,0,1798,1798,1799,1800
+</data>
+   </layer>
+   <layer id="7" name="Details" width="10" height="10">
+    <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,595,0,0,
+0,0,0,0,0,0,0,603,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,313,0,0,0,0
+</data>
+   </layer>
+   <objectgroup id="13" name="Colliders"/>
+  </group>
+  <group id="9" name="Layer1">
+   <objectgroup id="16" name="Colliders">
+    <object id="1" x="32" y="64" width="32" height="32"/>
+    <object id="2" x="64" y="64" width="32" height="32"/>
+    <object id="3" x="96" y="64" width="32" height="32"/>
+    <object id="4" x="128" y="64" width="32" height="32"/>
+    <object id="5" x="160" y="64" width="32" height="32"/>
+    <object id="6" x="192" y="64" width="32" height="32"/>
+    <object id="7" x="224" y="64" width="32" height="32"/>
+    <object id="8" x="256" y="64" width="32" height="32"/>
+    <object id="9" x="0" y="96" width="32" height="32"/>
+    <object id="10" x="0" y="128" width="32" height="32"/>
+    <object id="11" x="0" y="160" width="32" height="32"/>
+    <object id="12" x="0" y="192" width="32" height="32"/>
+    <object id="17" x="0" y="224" width="32" height="32"/>
+    <object id="18" x="0" y="256" width="32" height="32"/>
+    <object id="19" x="288" y="96" width="32" height="32"/>
+    <object id="20" x="288" y="128" width="32" height="32"/>
+    <object id="21" x="288" y="160" width="32" height="32"/>
+    <object id="22" x="288" y="192" width="32" height="32"/>
+    <object id="23" x="288" y="224" width="32" height="32"/>
+    <object id="24" x="288" y="256" width="32" height="32"/>
+    <object id="25" x="32" y="288" width="32" height="32"/>
+    <object id="26" x="64" y="288" width="32" height="32"/>
+    <object id="27" x="96" y="288" width="32" height="32"/>
+    <object id="28" x="128" y="288" width="32" height="32"/>
+    <object id="30" x="192" y="288" width="32" height="32"/>
+    <object id="31" x="224" y="288" width="32" height="32"/>
+    <object id="32" x="256" y="288" width="32" height="32"/>
+    <object id="33" x="160" y="319" width="32" height="1"/>
+   </objectgroup>
+  </group>
+  <group id="15" name="Layer2">
+   <layer id="17" name="Shadows" width="10" height="10">
+    <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,2295,0,0,0,0,0,0,0,0,
+0,2295,0,0,0,0,0,0,0,0,
+0,2295,0,0,0,0,0,0,0,0,
+0,2295,0,0,0,0,0,0,0,0,
+0,2295,0,0,0,0,0,0,0,0,
+0,2295,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+   </layer>
+   <objectgroup id="11" name="Colliders"/>
+  </group>
+ </group>
+</map>

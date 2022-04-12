@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="EnemyIdleBack" framecount="7" startingindex="7">
+ 0.15,0.15,0.15,0.15,0.15,0.15,0.15
+</animation>

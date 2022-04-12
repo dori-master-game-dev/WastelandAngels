@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>HiDef</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyIdleBack.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyIdleBackLeft.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyIdleBackRight.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyIdleFront.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyIdleFrontLeft.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyIdleFrontRight.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyIdleLeft.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyIdleRight.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyRunningBack.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyRunningBackLeft.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyRunningBackRight.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyRunningFront.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyRunningFrontLeft.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyRunningFrontRight.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyRunningLeft.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyRunningRight.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerIdleBack.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerIdleBackLeft.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerIdleBackRight.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerIdleFront.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerIdleFrontLeft.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerIdleFrontRight.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerIdleLeft.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerIdleRight.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerRunningBack.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerRunningBackLeft.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerRunningBackRight.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerRunningFront.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerRunningFrontLeft.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerRunningFrontRight.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerRunningLeft.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/PlayerRunningRight.anim</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Entities/EnemyMetaData/SpriteManagerMetadata.smr</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Entities/PlayerMetadata/SpriteManagerMetadata - Copy.smr</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Entities/PlayerMetadata/SpriteManagerMetadata.smr</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Levels/Level16x16.tmx</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Pictures/Tileset_16x16.png</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Spritesheets/EnemySheet/EnemySheet.png</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Spritesheets/EnemySheet/EnemySheetMetadata.sst</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Spritesheets/PlayerSheet/PlayerSheet.png</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Spritesheets/PlayerSheet/-PlayerSheet.png</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Spritesheets/PlayerSheet/PlayerSheetMetadata.sst</File>
+    <File>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Tilesets/Tileset_16x16.tsx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

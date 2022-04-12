@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Animations/EnemyIdleBackRight.anim</SourceFile>
+  <SourceTime>2021-01-18T07:08:52.5020229+02:00</SourceTime>
+  <DestFile>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/bin/Windows/Content/Animations/EnemyIdleBackRight.xnb</DestFile>
+  <DestTime>2022-01-19T09:31:34.4937282+02:00</DestTime>
+  <Importer>AnimationImporter</Importer>
+  <ImporterTime>2022-01-19T09:31:30.3871549+02:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2018-12-08T18:35:54+02:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

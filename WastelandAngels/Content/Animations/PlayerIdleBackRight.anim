@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="PlayerIdleBackRight" framecount="7" startingindex="49">
+ 0.15,0.15,0.15,0.15,0.15,0.15,0.15
+</animation>

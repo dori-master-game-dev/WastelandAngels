@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/Entities/PlayerMetadata/SpriteManagerMetadata - Copy.smr</SourceFile>
+  <SourceTime>2021-01-13T18:05:34.7237404+02:00</SourceTime>
+  <DestFile>C:/Users/TNTLa/source/repos/WastelandAngels/WastelandAngels/Content/bin/Windows/Content/Entities/PlayerMetadata/SpriteManagerMetadata - Copy.xnb</DestFile>
+  <DestTime>2022-01-19T09:31:34.554753+02:00</DestTime>
+  <Importer>SpriteManagerImporter</Importer>
+  <ImporterTime>2022-01-19T09:31:30.3871549+02:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2018-12-08T18:35:54+02:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="EnemyRunningBackRight" framecount="6" startingindex="106">
+ 0.15,0.15,0.15,0.15,0.15,0.15
+</animation>

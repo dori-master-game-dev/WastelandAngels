@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spritesheet tilewidth="41" tileheight="59" columns="7"  count="175">
+ <startingposition x="12" y="3"/>
+ <spacing x="23" y="5"/>
+ <image name="EnemySheet"/>
+</spritesheet>

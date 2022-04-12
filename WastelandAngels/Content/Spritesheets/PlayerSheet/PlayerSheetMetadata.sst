@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spritesheet tilewidth="16" tileheight="16" columns="3"  count="28">
+ <startingposition x="4" y="4"/>
+ <spacing x="4" y="4"/>
+ <image name="PlayerSheet"/>
+</spritesheet>

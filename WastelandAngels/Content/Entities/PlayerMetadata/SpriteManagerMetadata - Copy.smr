@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spritemanager name="PlayerSheet" animated="true" count="16">PlayerIdleFront,PlayerIdleBack,PlayerIdleLeft,PlayerIdleRight,PlayerIdleFrontLeft,PlayerIdleFrontRight,PlayerIdleBackLeft,PlayerIdleBackRight,PlayerRunningFront,PlayerRunningBack,PlayerRunningLeft,PlayerRunningRight,PlayerRunningFrontLeft,PlayerRunningFrontRight,PlayerRunningBackLeft,PlayerRunningBackRight</spritemanager>
